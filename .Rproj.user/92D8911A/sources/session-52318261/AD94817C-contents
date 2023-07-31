@@ -5,7 +5,7 @@ Version: 0.0.2
 Authors@R: c(
     person("Denisson", "Silva", , "denissoncsol@gmail.com", c("aut", "cre"))
     )
-Description: Extraction facebook ID and instagram ID.
+Description: Extraction facebook ID
 License: GPL (>= 2)
 Depends: R (>= 3.1.2)
 Imports: 
